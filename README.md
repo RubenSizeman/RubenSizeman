@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RubenSizeman
-- 👀 I’m currently making a carreer change from filmmaker to develer.
+- 👀 I’m currently making a carreer change from filmmaker to developer.
 
 
 <!---
